@@ -3,9 +3,9 @@
 #  servlet:
 #    context-path: /molasses
 
-limit:
-  minMoney: 0.01
-  description: 最少要发${limit.minMoney}元
+download:
+  dir: E:\code_repos\molasses_release_dev
+  installerFilename: Molasses Setup 0.1.0.exe
 
 #spring:
 #  datasource:
